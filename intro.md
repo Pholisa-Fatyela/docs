@@ -1,4 +1,4 @@
-![GA Logo](assets/GA-logo.png)
+![GA Logo](assets/GA-logo.png) 
 <br>	
 <br>	
 

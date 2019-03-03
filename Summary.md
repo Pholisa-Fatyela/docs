@@ -1,13 +1,15 @@
 # Summary
 * [Welcome](intro.md)
- 	* [Units & Lessons](00_unit/units-and-lessons.md)
+	* [Units & Lessons](00_unit/units-and-lessons.md)
 	* [Exercises, Quizzes & Assignments](00_unit/exercises-quizzes-assignments.md)
+
 * [Developer Foundations](01_unit/developer-foundations-intro.md)
 	* [Internet Fundamentals](01_unit/internet-fundamentals.md)
 	* [Intro to Programming Languages](01_unit/intro-to-programming-languages.md)
 	* [Think Like a Developer](01_unit/think-like-a-developer.md)
 	* [Quiz](01_unit/developer-foundations-quiz.md)
 	* [Cheat Sheet](01_unit/developer-foundations-cheatsheet.md)
+
 * [Developer Tools](02_unit/developer-tools-intro.md)
 	* [Git Bash and Terminal](02_unit/git-bash-and-terminal.md)
 	* [Text Editors and Browsers](02_unit/text-editors-and-browsers.md)
@@ -26,6 +28,7 @@
 	* [Quiz](02_unit/developer-tools-quiz-b.md)
 	* [Cheat Sheet](02_unit/developer-tools-cheatsheet.md)
 	* [Unit 2 Assignment](02_unit/developer-tools-assignment.md)
+
 * [Introduction to HTML](03_unit/intro-to-html-intro.md)
 	* [HTML Elements](03_unit/html-elements.md)
 		* [Exercise](03_unit/html-elements-exercise.md)
@@ -34,6 +37,7 @@
 	* [Quiz](03_unit/intro-to-html-quiz.md)
 	* [Cheat Sheet](03_unit/intro-to-html-cheatsheet.md)
 	* [Unit 3 Assignment](03_unit/intro-to-html-assignment.md)
+	
 * [Introduction to CSS](04_unit/intro-to-css-intro.md)
 	* [Adding Color](04_unit/adding-color.md)
 		* [Exercise](04_unit/adding-color-exercise.md)
@@ -46,6 +50,7 @@
 	* [Quiz](04_unit/intro-to-css-quiz.md)
 	* [Cheat Sheet](04_unit/intro-to-css-cheatsheet.md)
 	* [Unit 4 Assignment](04_unit/intro-to-css-assignment.md)
+
 * [Layout Basics](05_unit/layout-basics-intro.md)
 	* [Semantic Elements](05_unit/semantic-elements.md)
 	* [Div and Span](05_unit/div-and-span.md)
@@ -57,6 +62,7 @@
 	* [Cheat Sheet](05_unit/layout-basics-cheatsheet.md)
 	* [Unit 5 Assignment](05_unit/layout-basics-assignment.md)
 		* [Pulse Check](05_unit/pulse-check.md)
+
 * [Navigation and Page Layout](06_unit/navigation-and-page-layout-intro.md)
 	* [Vertical Navigation](06_unit/vertical-navigation.md)
 	* [Floating and Clearing](06_unit/floating-and-clearing.md)
@@ -67,6 +73,7 @@
 	* [Quiz](06_unit/navigation-and-page-layout-quiz.md)
 	* [Cheat Sheet](06_unit/navigation-and-page-layout-cheatsheet.md)
 	* [Unit 6 Assignment](06_unit/navigation-and-page-layout-assignment.md)
+
 * [Introduction to JavaScript](07_unit/js-intro.md)
 	* [Pseudocode](07_unit/pseudocode.md)
 		* [Exercise](07_unit/pseudocode-exercise.md)
@@ -77,6 +84,7 @@
 	* [Quiz](07_unit/js-intro-quiz.md)
 	* [Cheat Sheet](07_unit/js-intro-cheatsheet.md)
 	* [Unit 7 Assignment](07_unit/js-intro-assignment.md)
+
 * [Control Flow in JS](08_unit/control-flow-intro.md)
 	* [Comparison and Logical Operators and Booleans](08_unit/logical-operators-booleans.md)
 		* [Exercise](08_unit/logical-operators-booleans-exercise.md)
@@ -91,6 +99,7 @@
 	* [Quiz](08_unit/control-flow-quiz.md)
 	* [Cheat Sheet](08_unit/control-flow-cheatsheet.md)
 	* [Unit 8 Assignment](08_unit/control-flow-assignment.md)
+
 * [Functions](09_unit/functions-intro.md)
 	* [Defining and Calling Functions](09_unit/defining-calling-functions.md)
 		* [Exercise](09_unit/defining-calling-functions-exercise.md)
@@ -101,6 +110,7 @@
 	* [Quiz](09_unit/functions-quiz.md)
 	* [Cheat Sheet](09_unit/functions-cheatsheet.md)
 	* [Unit 9 Assignment](09_unit/functions-assignment.md)
+
 * [Objects](10_unit/objects-intro.md)
 	* [Creating Objects](10_unit/creating-objects.md)
 		* [Exercise](10_unit/creating-objects-exercise.md)
@@ -111,6 +121,7 @@
 	* [Quiz](10_unit/objects-quiz.md)
 	* [Cheat Sheet](10_unit/objects-cheatsheet.md)
 	* [Unit 10 Assignment](10_unit/objects-assignment.md)
+
 * [The DOM](11_unit/dom-intro.md)
 	* [Accessing the DOM](11_unit/accessing-the-dom.md)
 		* [Exercise](11_unit/accessing-the-dom-exercise.md)
@@ -122,5 +133,7 @@
 	* [Cheat Sheet](11_unit/dom-cheatsheet.md)
 	* [Unit 11 Assignment](11_unit/dom-assignment.md)
 	* [Pulse Check](11_unit/feedback.md)
+
 * [Exercise Solutions](exercise-solutions.md)
+
 * [Copyright & Terms of Service](license.md)
